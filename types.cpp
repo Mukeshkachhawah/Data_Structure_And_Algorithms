@@ -39,20 +39,4 @@ int main()
     }
 }
 
-// Q.4
-// #include <bits/stdc++.h>
-// using namespace std;
-// int main()
-// {
-//     vector<int> arr = {-4, -1, 0, 3, 10};
-//     vector<int> newarr;
-//     for (auto i = 0; i < arr.size(); i++)
-//     {
-//         newarr.push_back(arr[i] * arr[i]);
-//     }
-//     sort(begin(newarr), end(newarr));
-//     for (auto it : newarr)
-//     {
-//         cout << it << " ";
-//     }
-// }
+
