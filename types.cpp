@@ -56,22 +56,3 @@ int main()
 //         cout << it << " ";
 //     }
 // }
-
-// Q.1
-//  #include <bits/stdc++.h>
-//  using namespace std;
-//  int main()
-//  {
-//      vector<int> arr = {4, 3, 2, 7, 8, 2, 3, 1};
-//      sort(arr.begin(), arr.end());
-//      vector<int> ans;
-//      for (int i = 1; i <= arr.size(); i++)
-//          if (!binary_search(arr.begin(), arr.end(), i))
-//          {
-//              ans.push_back(i);
-//          }
-//      for (auto it : ans)
-//      {
-//          cout << it << " ";
-//      }
-//  }
