@@ -33,7 +33,7 @@ int main()
     }
 }
 
-// 2. ********************Membership eligibility  checker********************
+// 2.
 //  Membership eligibility checker by their subscription age grethan than 18
 #include <bits/stdc++.h>
 using namespace std;
