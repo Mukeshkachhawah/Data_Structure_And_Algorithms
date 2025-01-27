@@ -52,25 +52,7 @@ int main()
     }
 }
 
-// ***************************************************************
-// eat tea ate
-// 1. root word ==> sort
-// 2. aet: eat
-// each time whenever we are getting the root word
-// we will first going to sort that and make it our index
-//  and then we will going to update the values
 
-// now we can see that a single root word can contain more
-//  than one word so we make the value as vector
-
-// aet:index
-// eat tea ate eta aet tae :values
-
-// map<string,vector<string>>
-
-// 313135648464987931213
-// it.first odd  it.second 1357
-// it.first even it.second 2648
 
 // You are given a C++ program that defines a function to check if a number is odd and another function to group even and odd numbers from a vector into a map. The main function initializes a vector of integers, calls the grouping function, and prints the grouped even and odd numbers.
 #include <bits/stdc++.h>
